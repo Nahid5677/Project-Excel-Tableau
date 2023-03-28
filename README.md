@@ -1,5 +1,12 @@
 # Visualisation-Exel-Tableau
+
+Create Table
+
+Creat Macro
+
 Create chart in Excel
+
+Import Data to tableau from Excel
 
 Create Dashboard in Tableau
 
