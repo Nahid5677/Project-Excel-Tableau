@@ -4,11 +4,11 @@
 
 #### Creat Macro
 
-####Create chart in Excel
+#### Create chart in Excel
 
-####Import Data to tableau from Excel
+#### Import Data to tableau from Excel
 
-####Create Dashboard in Tableau
+#### Create Dashboard in Tableau
 
 ![image](https://user-images.githubusercontent.com/127600830/228212653-3ec87542-3585-4079-9ca7-0a96094a32d9.png)
 
